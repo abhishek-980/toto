@@ -1,5 +1,3 @@
-# toto
-todo list
 <!DOCTYPE html>
 <html lang="en">
 <head>
